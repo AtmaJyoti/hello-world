@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+I am Atma Jyoti.
+I am trying out GitHub. 
+Everything is okay so far. 
